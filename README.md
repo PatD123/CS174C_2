@@ -1,3 +1,7 @@
+# Articulated Human
+
+https://github.com/user-attachments/assets/0f2dc801-726b-4428-b87f-d427a57a0cec
+
 1. Display classroom in the render_animation() function of class Assignment2 starting from line 152.
 2. Spline is created on line 53 and drawn in the same function as above (line 166)
 3. Articulated human is located in the human.js file.
